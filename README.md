@@ -1,5 +1,5 @@
-# Blossom
-made by L7 | discord.gg/hexious
+# Blossom Image logger
+**Made by L7 | discord.gg/hexious**
 
 
 **First Open requirements.bat**
@@ -8,8 +8,10 @@ made by L7 | discord.gg/hexious
 
 **once installed it will auto close.**
 
-**open "blossom.py"
+**open "blossom.py"**
 
 **wait for it to load then pick your input**
 
 **One click or Image logger (image logger is down atm)**
+
+# ADDING MORE FEATURES SOON
