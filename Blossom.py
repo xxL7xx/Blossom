@@ -11,8 +11,8 @@ print(f"""{Fore.MAGENTA}{Style.BRIGHT}
      XXXX          XX  XX  XXXX        XXXX  XX
      XX  XXXX    XXXX  XXXX  XX    XXXX      XX{Fore.RESET}         Blossom XSS {Fore.RED}v{Fore.RESET}{ver}{Fore.MAGENTA}
      XX      XXXX  XX    XX    XXXX          XX{Fore.RED}         ----------------{Fore.MAGENTA}
-     XX        XXXX        XX  XX          XX{Fore.RESET}           Written by{Fore.RED}: {Fore.RESET}Flights{Fore.MAGENTA}
-       XX    XX                            XX{Fore.RESET}           Links{Fore.RED}: {Fore.RESET}solo.to/com{Fore.MAGENTA}
+     XX        XXXX        XX  XX          XX{Fore.RESET}           Written by{Fore.RED}: {Fore.RESET}Hexious{Fore.MAGENTA}
+       XX    XX                            XX{Fore.RESET}           Links{Fore.RED}: {Fore.RESET}discord.gg/hexious{Fore.MAGENTA}
        XX  XX                            XX{Fore.RESET}             Source{Fore.RED}: {Fore.RESET}Open{Fore.MAGENTA}
        XX  XX                            XX{Fore.RED}             ----------------{Fore.MAGENTA}
          XXXX            XXXXXX        XXXX{Fore.RESET}             Checking for updates...{Fore.RED}{Fore.MAGENTA}
@@ -39,8 +39,8 @@ print(f"""{Fore.MAGENTA}{Style.BRIGHT}
      XXXX          XX  XX  XXXX        XXXX  XX
      XX  XXXX    XXXX  XXXX  XX    XXXX      XX{Fore.RESET}         Blossom XSS {Fore.RED}v{Fore.RESET}{ver}{Fore.MAGENTA}
      XX      XXXX  XX    XX    XXXX          XX{Fore.RED}         ----------------{Fore.MAGENTA}
-     XX        XXXX        XX  XX          XX{Fore.RESET}           Written by{Fore.RED}: {Fore.RESET}Flights{Fore.MAGENTA}
-       XX    XX                            XX{Fore.RESET}           Links{Fore.RED}: {Fore.RESET}solo.to/com{Fore.MAGENTA}
+     XX        XXXX        XX  XX          XX{Fore.RESET}           Written by{Fore.RED}: {Fore.RESET}Hexious{Fore.MAGENTA}
+       XX    XX                            XX{Fore.RESET}           Links{Fore.RED}: {Fore.RESET}discord.gg/hexious{Fore.MAGENTA}
        XX  XX                            XX{Fore.RESET}             Source{Fore.RED}: {Fore.RESET}Open{Fore.MAGENTA}
        XX  XX                            XX{Fore.RED}             ----------------{Fore.MAGENTA}
          XXXX            XXXXXX        XXXX{Fore.RESET}             Importing Libraries...{Fore.RED}{Fore.MAGENTA}
@@ -68,8 +68,8 @@ def blossom():
        XXXX          XX  XX  XXXX        XXXX  XX
        XX  XXXX    XXXX  XXXX  XX    XXXX      XX{Fore.RESET}         Blossom XSS {Fore.RED}v{Fore.RESET}{ver}{Fore.MAGENTA}
        XX      XXXX  XX    XX    XXXX          XX{Fore.RED}         ----------------{Fore.MAGENTA}
-       XX        XXXX        XX  XX          XX{Fore.RESET}           Written by{Fore.RED}: {Fore.RESET}Flights{Fore.MAGENTA}
-         XX    XX                            XX{Fore.RESET}           Links{Fore.RED}: {Fore.RESET}solo.to/com{Fore.MAGENTA}
+       XX        XXXX        XX  XX          XX{Fore.RESET}           Written by{Fore.RED}: {Fore.RESET}Hexious{Fore.MAGENTA}
+         XX    XX                            XX{Fore.RESET}           Links{Fore.RED}: {Fore.RESET}discord.gg/hexious{Fore.MAGENTA}
          XX  XX                            XX{Fore.RESET}             Source{Fore.RED}: {Fore.RESET}Open{Fore.MAGENTA}
          XX  XX                            XX{Fore.RED}             ----------------{Fore.MAGENTA}
            XXXX            XXXXXX        XXXX{Fore.RESET}             {Fore.RED}[{Fore.RESET}{Style.BRIGHT}1{Fore.RED}]{Fore.RESET}{Style.BRIGHT} One Click{Fore.RED}{Fore.MAGENTA}
